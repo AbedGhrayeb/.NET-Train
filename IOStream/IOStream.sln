@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAIDisposapleDesignPattern", "CAIDisposapleDesignPattern\CAIDisposapleDesignPattern.csproj", "{67D0AA5F-C0D7-4CA0-AA5B-51D57CA255EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAFileStream", "KAFileStream\KAFileStream.csproj", "{770984AC-7F03-4B72-A7D8-9EF7AA074D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D0AA5F-C0D7-4CA0-AA5B-51D57CA255EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D0AA5F-C0D7-4CA0-AA5B-51D57CA255EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D0AA5F-C0D7-4CA0-AA5B-51D57CA255EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D0AA5F-C0D7-4CA0-AA5B-51D57CA255EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770984AC-7F03-4B72-A7D8-9EF7AA074D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770984AC-7F03-4B72-A7D8-9EF7AA074D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770984AC-7F03-4B72-A7D8-9EF7AA074D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770984AC-7F03-4B72-A7D8-9EF7AA074D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC74C2CF-E18B-44BE-9DBD-CE416D9DF0DC}
+	EndGlobalSection
+EndGlobal
