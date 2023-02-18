@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{8841DF68-5FC2-479D-A8FD-996492F34EE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{8DD257F3-9461-46CF-8A89-D63F51F245FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{8DD257F3-9461-46CF-8A89-D63F51F245FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratorIterators", "EnumeratorIterators\EnumeratorIterators.csproj", "{8168D1F1-1A76-4BA7-BD79-B737D76F9FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumeratorIterators", "EnumeratorIterators\EnumeratorIterators.csproj", "{8168D1F1-1A76-4BA7-BD79-B737D76F9FAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributesApp", "AttributesApp\AttributesApp.csproj", "{7853C138-453F-428F-BFFF-995DD0431B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -223,6 +225,18 @@ Global
 		{8168D1F1-1A76-4BA7-BD79-B737D76F9FAB}.Release|x64.Build.0 = Release|Any CPU
 		{8168D1F1-1A76-4BA7-BD79-B737D76F9FAB}.Release|x86.ActiveCfg = Release|Any CPU
 		{8168D1F1-1A76-4BA7-BD79-B737D76F9FAB}.Release|x86.Build.0 = Release|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Debug|x64.Build.0 = Debug|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Debug|x86.Build.0 = Debug|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Release|x64.ActiveCfg = Release|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Release|x64.Build.0 = Release|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Release|x86.ActiveCfg = Release|Any CPU
+		{7853C138-453F-428F-BFFF-995DD0431B8E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
